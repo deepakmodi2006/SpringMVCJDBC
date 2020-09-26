@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dmodi.spring</groupId>
-    <artifactId>SpringMvcJdbcTemplate</artifactId>
+    <artifactId>SpringMVCJDBC</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>SpringMvcJdbcTemplate</name>
+    <name>SpringMVCJDBC</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -71,7 +71,7 @@
     </dependencies>
 
     <build>
-        <finalName>SpringMvcJdbcTemplate</finalName>
+        <finalName>SpringMVCJDBC</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
